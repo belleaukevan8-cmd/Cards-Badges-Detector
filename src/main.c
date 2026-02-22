@@ -1,0 +1,1 @@
+#include <stdio.h>\n\nint main() {\n    printf("Hello, Card Detector!\n");\n    return 0;\n}
