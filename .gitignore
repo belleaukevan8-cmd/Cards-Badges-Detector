@@ -1,0 +1,10 @@
+# C project
+
+# Object files
+*.o
+
+# Binaries
+*.out
+
+# Build artifacts
+build/
